@@ -12,6 +12,9 @@ I'm Kody Dudley and I'm a full stack developer. Prior to becoming a developer, I
 ### About Me
 
   • I'm an avid sports fan
+  
   • Loves a good movie
+  
   • I enjoy being challenged
+  
   • Believes that being complacent only hurts you from learning
