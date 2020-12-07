@@ -28,7 +28,7 @@ HTML5 || CSS || BootStrap || Javascript || Vue.js || Node.js || MongoDB || C# / 
 
 ### About Me
 
-  • I'm an avid sports fan
-  • Loves a good movie
-  • I enjoy being challenged
-  • Believes that being complacent only hurts you from learning
+  - I'm an avid sports fan
+  - Loves a good movie
+  - I enjoy being challenged
+  - Believes that being complacent only hurts you from learning
