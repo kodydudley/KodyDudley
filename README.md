@@ -1,5 +1,3 @@
-## Hello there 👋
-
 I'm Kody Dudley and I'm a full stack developer. Prior to becoming a developer, I worked in Project and Account Management. I enjoy working on both the frontend and backend. I chose to become a developer because I love problem solving and I get to do that every day in this field.
 
 ### Contact Information
@@ -10,7 +8,7 @@ I'm Kody Dudley and I'm a full stack developer. Prior to becoming a developer, I
   
 ### Languages
 
-HTML5 || CSS || BootStrap || Javascript || Vue.js|| Node.js || MongoDB || C# / .Net || MySQL
+HTML5 || CSS || BootStrap || Javascript || Vue.js || Node.js || MongoDB || C# / .Net || MySQL
   
 ### Projects
 
