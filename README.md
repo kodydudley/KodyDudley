@@ -12,11 +12,9 @@ HTML5 || CSS || BootStrap || Javascript || Vue.js || Node.js || MongoDB || C# / 
   
 ### Projects
 
-  - [m o m e n t](https://github.com/milesfwilson/capstone)
-   - This is a goal tracking application that is being built by a team of 4 people including myself.
+  - [m o m e n t](https://github.com/milesfwilson/capstone) -- This is a goal tracking application that is being built by a team of 4 people including myself.
       
-  - [Organyze](https://github.com/kodydudley/kanbanned/)
-   - This is a variation of a KanBan board that was build by myself and one partner.
+  - [Organyze](https://github.com/kodydudley/kanbanned/) -- This is a variation of a KanBan board that was build by myself and one partner.
   
 ### Education
 
