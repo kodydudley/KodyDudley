@@ -10,7 +10,7 @@ I'm Kody Dudley and I'm a full stack developer. Prior to becoming a developer, I
   
 ### Languages
 
-HTML5 || CSS || Javascript || Vue.js|| Node.js || MongoDB || C# / .Net || MySQL
+HTML5 || CSS || BootStrap || Javascript || Vue.js|| Node.js || MongoDB || C# / .Net || MySQL
   
 ### Projects
 
