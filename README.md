@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**kodydudley/KodyDudley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kody Dudley and I'm a full stack developer. Prior to becoming a developer, I worked in Project and Account Management. I enjoy working on both the frontend and backend. I chose to become a developer because I love problem solving and I get to do that every day in this field.
 
-Here are some ideas to get you started:
+### Contact Information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  • [kodymdudley@gmail.com](kodymdudley@gmail.com)
+
+  • [LinkedIn](https://www.linkedin.com/in/kodymdudley/)
+
+
+### About Me
+
+  • I'm an avid sports fan
+  • Loves a good movie
+  • I enjoy being challenged
+  • Believes that being complacent only hurts you from learning
