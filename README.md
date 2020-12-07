@@ -8,6 +8,10 @@ I'm Kody Dudley and I'm a full stack developer. Prior to becoming a developer, I
 
   • [LinkedIn](https://www.linkedin.com/in/kodymdudley/)
   
+### Languages
+
+HTML5 || CSS || Javascript || Vue.js|| Node.js || MongoDB || C# / .Net || MySQL
+  
 ### Projects
 
   • [m o m e n t](https://github.com/milesfwilson/capstone)
@@ -18,7 +22,11 @@ I'm Kody Dudley and I'm a full stack developer. Prior to becoming a developer, I
   
    - This is a variation of a KanBan board that was build by myself and one partner.
   
+### Education
 
+  • BBA  -  Boise State  -  2018
+  
+  • Certificate of Completetion  -  Boise CodeWorks  -  2021
 
 ### About Me
 
