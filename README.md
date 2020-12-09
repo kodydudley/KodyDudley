@@ -4,7 +4,7 @@ I'm Kody Dudley and I'm a full stack developer. Prior to becoming a developer, I
 
   - [kodymdudley@gmail.com](kodymdudley@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/kodymdudley/)
-  - [Resumè] (https://github.com/kodydudley/KodyDudley/blob/main/Kody%20Dudley%20Resume%20(2).pdf)
+  - [Resumè](https://github.com/kodydudley/KodyDudley/blob/main/Kody%20Dudley%20Resume%20(2).pdf)
   
 ### Languages
 
