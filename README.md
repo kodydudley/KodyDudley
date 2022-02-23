@@ -18,7 +18,7 @@ HTML5 || CSS || BootStrap || Javascript || Vue.js || Node.js || MongoDB || C# / 
 ### Education
 
   - BBA  -  Boise State  -  2018
-  - Certificate of Completetion  -  Boise CodeWorks  -  2021
+  - Certificate of Completion  -  Boise CodeWorks  -  2021
 
 ### About Me
 
